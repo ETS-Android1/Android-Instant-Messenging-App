@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531459652481",
+    "project_id": "iems5722-55842",
+    "storage_bucket": "iems5722-55842.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531459652481:android:65c65a72ee644435d64680",
+        "android_client_info": {
+          "package_name": "hk.edu.cuhk.ie.iems5722.Group31"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531459652481-km1p45j9aghj6reguln57hnftaltfh9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClBEEacNiHQr49XF9oYUdzEkMWzD-qq90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531459652481-km1p45j9aghj6reguln57hnftaltfh9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Group31</string>
+    <string name="header">IEMS5722</string>
+    <string name="chatroom">Chatroom</string>
+    <string name="username">username</string>
+    <string name="inputData">please type your message here</string>
+    <string name="send">send</string>
+    <string name="back">back</string>
+    <string name="back_activity">back to main screen</string>
+    <string name="channel_name">FCM</string>
+    <string name="channel_description">FCM description</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="Chatroom">Chatroom</string>
+    <string name="Friends">Friends</string>
+    <string name="Setting">Settings</string>
+    <string name="FriendList_item"></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment1">Chatroom</string>
+    <string name="hello_blank_fragment2">Friends List</string>
+    <string name="hello_blank_fragment3">Settings</string>
+</resources>
