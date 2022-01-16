@@ -7,20 +7,20 @@ Java is used for the client-side and Python is used for the server-side. The who
 Please remember to change the IP address to your **SERVER IP ADDRESS**.
 
 There are some main functions: 
-*Basic functions
- *Send message
- *Receive message
- *Get chatrooms
-*Addtional functions
- *Add friends
- *Get friends list
- *P2P data transmission (file, pictures, videos)
+* Basic functions
+ * Send message
+ * Receive message
+ * Get chatrooms
+* Addtional functions
+ * Add friends
+ * Get friends list
+ * P2P data transmission (file, pictures, videos)
 
 Reference 3rd party:
-*Nginx
-*Firebase
-*Celery
-*RabbitMQ
-*Flask
-*Supervisor
-*Gunicorn
+* Nginx
+* Firebase
+* Celery
+* RabbitMQ
+* Flask
+* Supervisor
+* Gunicorn
