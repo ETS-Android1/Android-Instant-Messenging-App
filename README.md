@@ -8,13 +8,13 @@ Please remember to change the IP address to your **SERVER IP ADDRESS**.
 
 There are some main functions: 
 * Basic functions
- * Send message
- * Receive message
- * Get chatrooms
+  * Send message
+  * Receive message
+  * Get chatrooms
 * Addtional functions
- * Add friends
- * Get friends list
- * P2P data transmission (file, pictures, videos)
+  * Add friends
+  * Get friends list
+  * P2P data transmission (file, pictures, videos)
 
 Reference 3rd party:
 * Nginx
